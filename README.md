@@ -12,3 +12,6 @@
 1. StudentMarksRecordSystem.java - ArrayList program to find highest and lowest student marks
 2. WordFrequencyCounter.java - File I/O program to count word frequency from input.txt and write to output.txt
 3. EmployeeManagementSystem.java - Mini Project using Collections, File I/O and Exception Handling for employee records
+
+## Week-4
+1. ATM-SIMULATION.java - ATM Simulation using OOP + File Handling with Deposit, Withdraw, Balance Check and Transaction History
